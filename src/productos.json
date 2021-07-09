@@ -1,0 +1,9 @@
+[{
+    "nombre": "Manzana",
+    "precio": 100,
+    "existencia": 1
+}, {
+    "nombre": "Pera",
+    "precio": 100,
+    "existencia": 1
+}]
